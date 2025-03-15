@@ -2,6 +2,7 @@
 </head>
 <body>
     <h2>Struktur Penempatan File dan Dataset</h2>
+    <h3>https://drive.google.com/drive/folders/1xGSTpEwfGJ8ugvE-6X4MviUFhBmD2yCI?usp=drive_link</h3>
     <ul>
         <li class="folder">/dataset</li>
         <ul>
