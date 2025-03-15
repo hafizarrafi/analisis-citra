@@ -1,4 +1,6 @@
 
+</head>
+<body>
     <h2>Struktur Penempatan File dan Dataset</h2>
     <ul>
         <li class="folder">/dataset</li>
