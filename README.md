@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Struktur Dataset dan File</title>
-    <style>
-        body { font-family: Arial, sans-serif; }
-        ul { list-style-type: none; }
-        .folder { font-weight: bold; color: #2E86C1; }
-        .file { color: #28B463; }
-    </style>
-</head>
-<body>
+
     <h2>Struktur Penempatan File dan Dataset</h2>
     <ul>
         <li class="folder">/dataset</li>
