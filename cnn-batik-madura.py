@@ -5,8 +5,8 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import os
 
 # Path dataset
-train_dir = "dataset/train"
-test_dir = "dataset/test"
+train_dir = "B:\Belajar\Analisis Citra\Final Project\TEST"
+test_dir = "B:\Belajar\Analisis Citra\Final Project\TRAIN"
 
 # Augmentasi data
 datagen = ImageDataGenerator(rescale=1. / 255, rotation_range=20, zoom_range=0.2,
@@ -22,7 +22,7 @@ model = Sequential([
 
     Conv2D(64, (3, 3), activation='relu'),
     MaxPooling2D((2, 2)),
-
+ 
     Conv2D(128, (3, 3), activation='relu'),
     MaxPooling2D((2, 2)),
 
